@@ -1,1 +1,1 @@
-# magictown
+# MagicTown
